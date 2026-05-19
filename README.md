@@ -9,8 +9,7 @@ Repositorio dedicado a subir los proyectos respectivos al curso.
 
 | Proyecto | Notebook |
 |--------|----------|
-| Proyecto_1 | 
-`Modelado_SED_AS205S.ipynb` |
+| Proyecto_1 | `Modelado_SED_AS205S.ipynb` |
 
 > El repositorio se irá actualizando a lo largo del semestre según la 
 cantidad de actividades respectivas ⊹ ࣪ ˖
@@ -21,7 +20,7 @@ cantidad de actividades respectivas ⊹ ࣪ ˖
 
 - Python 3
 - `pandas` · `numpy` · `matplotlib`
-- `scipy`, `emcee`,`corner`, `multiprocessing`, `warning` 
+- `scipy` · `emcee` · `corner` · `multiprocessing` · `warning` 
 - Jupyter Notebook
 
 ---
